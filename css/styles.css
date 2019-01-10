@@ -1,0 +1,34 @@
+h1 {
+  font-size: 35px;
+  text-align: center;
+  color: #a51a4d;
+}
+
+h2 {
+  font-size: 22px;
+  color: #ccddee;
+  text-align: center;
+}
+
+p {
+  font-size: 14px;
+}
+
+p.flashy {
+  font-style: italic;
+  color: #DC143C;
+}
+
+h2.flashy {
+  font-style: italic;
+  color: #DC143C;
+}
+
+p.best {
+  color: #FA8072;
+  font-style: bold;
+}
+
+img {
+  width: 100%;
+}
